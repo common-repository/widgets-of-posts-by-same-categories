@@ -1,0 +1,85 @@
+# LANGUAGE (LOCALE) translation for Widgets of Posts by Same Categories.
+# Copyright (C) alphasis ( http://alphasis.info/ ).
+# This file is distributed under the same license as the WordPress package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Widgets of Posts by Same Categories 1.0.1\n"
+"POT-Creation-Date: 2010/11/17\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: alphasis.info\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+
+msgid "Maximum Number of Posts to Show by Categories:"
+msgstr "カテゴリ別に表示する最大投稿数:"
+
+msgid "Default:"
+msgstr "初期値:"
+
+msgid "Order By:"
+msgstr "並び順:"
+
+msgid "Sort by title"
+msgstr "投稿記事タイトル"
+
+msgid "Sort by creation date"
+msgstr "投稿記事作成日"
+
+msgid "Sort by last modified date"
+msgstr "投稿記事更新日"
+
+msgid "Sort by numeric post ID"
+msgstr "投稿記事ID"
+
+msgid "Random"
+msgstr "ランダム"
+
+msgid "Order:"
+msgstr "昇順／降順:"
+
+msgid "Ascending"
+msgstr "昇順"
+
+msgid "Descending"
+msgstr "降順"
+
+msgid "Creates a link to each category?:"
+msgstr "カテゴリにリンクを貼る？:"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "Exclude (Categories):"
+msgstr "除外（カテゴリ）:"
+
+msgid "The IDs of any categories you want to exclude, separated by commas."
+msgstr "除外したいカテゴリのIDを、カンマ区切りで。"
+
+msgid "Separator:"
+msgstr "区切り文字:"
+
+msgid "What to separate each category by."
+msgstr "カテゴリの親子間の区切り文字。\"≫\"など。"
+
+msgid "Official page"
+msgstr "公式ページ"
+
+msgid "English"
+msgstr "英語"
+
+msgid "Japanese"
+msgstr "日本語"
+
+msgid "Please pay if you like \"Widgets of Posts by Same Categories\"."
+msgstr "\"Widgets of Posts by Same Categories\"を気に入って頂けましたら、お気持ちの金額を、お支払下さい。"
+
+#~ msgid "Number of Display Posts:"
+#~ msgstr "表示投稿記事数:"

@@ -1,0 +1,80 @@
+# LANGUAGE (LOCALE) translation for Widgets of Posts by Same Categories.
+# Copyright (C) alphasis ( http://alphasis.info/ ).
+# This file is distributed under the same license as the WordPress package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Widgets of Posts by Same Categories 1.0.1 \n"
+"POT-Creation-Date: 2010/11/17 \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Maximum Number of Posts to Show by Categories:"
+msgstr ""
+
+msgid "Default:"
+msgstr ""
+
+msgid "Order By:"
+msgstr ""
+
+msgid "Sort by title"
+msgstr ""
+
+msgid "Sort by creation date"
+msgstr ""
+
+msgid "Sort by last modified date"
+msgstr ""
+
+msgid "Sort by numeric post ID"
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Order:"
+msgstr ""
+
+msgid "Ascending"
+msgstr ""
+
+msgid "Descending"
+msgstr ""
+
+msgid "Creates a link to each category?:"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Exclude (Categories):"
+msgstr ""
+
+msgid "The IDs of any categories you want to exclude, separated by commas."
+msgstr ""
+
+msgid "Separator:"
+msgstr ""
+
+msgid "What to separate each category by."
+msgstr ""
+
+msgid "Official page"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "Japanese"
+msgstr ""
+
+msgid "Please pay if you like \"Widgets of Posts by Same Categories\"."
+msgstr ""
+
